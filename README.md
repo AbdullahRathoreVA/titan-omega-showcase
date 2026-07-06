@@ -44,6 +44,14 @@ commands from a phone — around the clock.
 - 🤖 **Autonomous code changes** — agents open real, review-gated GitHub pull requests
 - 🛡 **Self-healing AI layer** — triple-provider failover with live model-catalog discovery; a model retirement can't silence the system
 
+## More products by the same builder
+
+| Product | What it is | Link |
+|---|---|---|
+| 🎓 **Career Mind AI** | AI career & education guidance platform for schools — AI Mentor chatbot (local LLMs), OCR grade import, automated PDF reports, GPA analytics, admin dashboard. Live and integrated with TITAN via a real-time connector. | [Live app](https://careermind2026-career-mind.hf.space) |
+| 🧰 **AI Job Search Toolkit** | Open-source toolkit applying AI to the job-search workflow. | [GitHub](https://github.com/AbdullahRathoreVA/ai-job-search-toolkit-public) |
+| 🏢 **TITAN Ω** | This — the autonomous AI business operating system running both products' growth. | [Live demo](https://careermind2026-project-titan-omega.hf.space) |
+
 ## Design principle: honesty
 
 TITAN never fakes a number. Revenue starts at $0 and moves only when real money moves. Forecasts are
